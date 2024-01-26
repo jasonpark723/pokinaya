@@ -10,8 +10,8 @@ const fishMenu = [
       imgSource: "../img/fish/salmon.png",
     },
     {
-      name: "Yellowtail",
-      description: "Fresh Yellowtail with a rich flavor.",
+      name: "Albacore",
+      description: "Fresh Albacore with a rich flavor.",
       imgSource: "../img/fish/yt.png",
     },
     {
